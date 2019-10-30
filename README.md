@@ -13,3 +13,4 @@
 
 ### 2019-10-30
 - ['你所不知道的 AI 进展'](http://www.ruanyifeng.com/blog/2019/10/artificial-intelligenence.html)
+- ['由重排重绘引发对虚拟DOM以及性能优化的思考'](https://juejin.im/post/5db869a3e51d4529eb1887ac)
