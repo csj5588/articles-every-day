@@ -10,3 +10,6 @@
 ### 2019-10-29
 - ['Performance性能测试工具'](https://blog.csdn.net/shenqikai0319/article/details/85264785)
 - ['这可能是最通俗的 React Fiber(时间分片) 打开方式'](https://juejin.im/post/5dadc6045188255a270a0f85)
+
+### 2019-10-30
+- ['你所不知道的 AI 进展'](http://www.ruanyifeng.com/blog/2019/10/artificial-intelligenence.html)
