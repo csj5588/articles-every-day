@@ -14,3 +14,19 @@
 ### 2019-10-30
 - ['你所不知道的 AI 进展'](http://www.ruanyifeng.com/blog/2019/10/artificial-intelligenence.html)
 - ['由重排重绘引发对虚拟DOM以及性能优化的思考'](https://juejin.im/post/5db869a3e51d4529eb1887ac)
+
+### 2019-10-31
+- ['狙杀页面卡顿 —— Performance 指北'](https://juejin.im/post/5b65105f5188251b134e9778)
+- ['重构 - 保持函数的单一职责'](https://juejin.im/post/5af7ee6df265da0b722b36aa)
+
+### 2019-11-1
+- ['这儿有一个使你网页性能提升10倍的工具'](https://juejin.im/post/5b156980e51d4506b942a54d)
+- ['前端代码质量优化交流'](https://juejin.im/post/5c7e1c326fb9a04a027b18c2)
+
+### 2019-11-2
+- ['不定期更新的CSS奇淫技巧（一）'](https://juejin.im/post/5b12ae3de51d4506d73f0bb4)
+- ['我用了两个月的时间才理解 let'](https://zhuanlan.zhihu.com/p/28140450)
+
+### 2019-11-3
+- ['什么是中台？'](https://mp.weixin.qq.com/s/rF7_xJBq4NJP6CmkW3HPpQ)
+- ['科技爱好者周刊：第 79 期'](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html)
