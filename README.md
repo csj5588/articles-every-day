@@ -33,3 +33,4 @@
 
 ### 2019-11-4
 - ['重构：代码命名之逆袭女神'](https://juejin.im/post/5db94780e51d452a34438f43)
+- ['React Concurrent 模式抢先预览下篇: useTransition 的平行世界'](https://juejin.im/post/5dbee8e7e51d4558040f0830)
