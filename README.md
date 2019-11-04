@@ -30,3 +30,6 @@
 ### 2019-11-3
 - ['什么是中台？'](https://mp.weixin.qq.com/s/rF7_xJBq4NJP6CmkW3HPpQ)
 - ['科技爱好者周刊：第 79 期'](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html)
+
+### 2019-11-4
+- ['重构：代码命名之逆袭女神'](https://juejin.im/post/5db94780e51d452a34438f43)
