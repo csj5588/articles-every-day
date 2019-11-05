@@ -34,3 +34,7 @@
 ### 2019-11-4
 - ['重构：代码命名之逆袭女神'](https://juejin.im/post/5db94780e51d452a34438f43)
 - ['React Concurrent 模式抢先预览下篇: useTransition 的平行世界'](https://juejin.im/post/5dbee8e7e51d4558040f0830)
+
+### 2019-11-5
+- ['Sticky Footer'](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
+- ['科技爱好者周刊：第 80 期'](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)
