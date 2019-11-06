@@ -38,3 +38,7 @@
 ### 2019-11-5
 - ['Sticky Footer'](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
 - ['科技爱好者周刊：第 80 期'](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)
+
+### 2019-11-6
+- ['约定式提交 1.0.0-beta.4'](https://www.conventionalcommits.org/zh-cn/v1.0.0-beta.4/#%E7%BA%A6%E5%AE%9A%E5%BC%8F%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83)
+- ['可能是最全的 “文本溢出截断省略” 方案合集'](https://juejin.im/post/5dc15b35f265da4d432a3d10)
