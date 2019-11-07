@@ -42,3 +42,7 @@
 ### 2019-11-6
 - ['约定式提交 1.0.0-beta.4'](https://www.conventionalcommits.org/zh-cn/v1.0.0-beta.4/#%E7%BA%A6%E5%AE%9A%E5%BC%8F%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83)
 - ['可能是最全的 “文本溢出截断省略” 方案合集'](https://juejin.im/post/5dc15b35f265da4d432a3d10)
+
+### 2019-11-7
+- ['Tips to write better Conditionals in JavaScript'](https://dev.to/hellomeghna/tips-to-write-better-conditionals-in-javascript-2189)
+- ['【js致死点】indexOf 对比 includes'](https://www.jianshu.com/p/4ada1b5b82b8)
