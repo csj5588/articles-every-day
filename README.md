@@ -46,3 +46,7 @@
 ### 2019-11-7
 - ['Tips to write better Conditionals in JavaScript'](https://dev.to/hellomeghna/tips-to-write-better-conditionals-in-javascript-2189)
 - ['【js致死点】indexOf 对比 includes'](https://www.jianshu.com/p/4ada1b5b82b8)
+
+### 2019-11-7
+- ['WEB前端知识体系脑图'](https://www.jianshu.com/p/00baf1e65322)
+- ['现代 JavaScript 教程'](https://zh.javascript.info/)
