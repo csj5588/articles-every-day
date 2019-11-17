@@ -50,3 +50,39 @@
 ### 2019-11-7
 - ['WEB前端知识体系脑图'](https://www.jianshu.com/p/00baf1e65322)
 - ['现代 JavaScript 教程'](https://zh.javascript.info/)
+
+### 2019-11-8
+- ['谈谈css伪类与伪元素'](https://segmentfault.com/a/1190000012156828?utm_source=tag-newest)
+- ['构造函数和操作符 "new"'](https://zh.javascript.info/constructor-new)
+
+### 2019-11-9
+- ['前端布局方式汇总及概念浅析'](http://elevenbeans.github.io/2018/01/12/front-end-layout-methods/ )
+- ['【js致死点】indexOf 对比 includes'](https://www.jianshu.com/p/4ada1b5b82b8)
+
+### 2019-11-10
+- ['使用 ESlint、lint-staged 半自动提升项目代码质量'](https://www.jianshu.com/p/cdd749c624d9)
+- ['跟大家聊一下前端性能怎么优化'](https://juejin.im/post/5c74a1ec6fb9a049e063fd20#heading-12)
+
+### 2019-11-11
+- [' Learn Git Branching'](https://learngitbranching.js.org/)
+- ['杨安泽的总统竞选'](http://www.ruanyifeng.com/blog/2019/11/andrew-yang.html)
+
+### 2019-11-12
+- ['React如何实现锚点滚动'](https://www.jianshu.com/p/3ef8f490873d)
+- ['彻底弄懂ES6中的Map和Set'](https://juejin.im/post/5cece5e9e51d45105e021238)
+
+### 2019-11-13
+- ['js中变量名与函数名重名的问题'](https://blog.csdn.net/charles_tian/article/details/79775909)
+- ['js中的变量命名规则'](https://blog.csdn.net/qq_30443907/article/details/81416650)
+
+### 2019-11-14
+- ['Java关键字(一)——instanceof'](https://www.cnblogs.com/ysocean/p/8486500.html)
+- ['JSON 方法，toJSON'](https://zh.javascript.info/json)
+
+### 2019-11-15
+- ['20191111 - 迭代器和生成器及应用'](https://wiki.inkept.cn/pages/viewpage.action?pageId=84473307)
+- ['20191030 - redux基础分享'](https://wiki.inkept.cn/pages/viewpage.action?pageId=84449373)
+
+### 2019-11-16
+- ['JS ||、&&、!! 短路运算符的使用'](https://juejin.im/post/5caab48ff265da2508554a02)
+- ['换个角度就很好深入理解的js继承'](https://juejin.im/post/5d7f3bc26fb9a06af92bd431)
