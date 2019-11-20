@@ -90,3 +90,6 @@
 ### 2019-11-17
 - ['如何成为公司独当一面的工程师'](https://juejin.im/post/5dd4cc71f265da0bca7899cf)
 - ['用 Jest 进行单元测试'](https://mp.weixin.qq.com/s/X7C8DR0SLNd8W4OoUky16A)
+
+### 2019-11-18
+- ['史上最贴心前端脚手架开发辅导'](https://juejin.im/post/5dd10fb76fb9a01fe303a5aa)
