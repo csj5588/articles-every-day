@@ -86,3 +86,7 @@
 ### 2019-11-16
 - ['JS ||、&&、!! 短路运算符的使用'](https://juejin.im/post/5caab48ff265da2508554a02)
 - ['换个角度就很好深入理解的js继承'](https://juejin.im/post/5d7f3bc26fb9a06af92bd431)
+
+### 2019-11-17
+- ['如何成为公司独当一面的工程师'](https://juejin.im/post/5dd4cc71f265da0bca7899cf)
+- ['用 Jest 进行单元测试'](https://mp.weixin.qq.com/s/X7C8DR0SLNd8W4OoUky16A)
