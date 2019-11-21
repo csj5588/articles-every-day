@@ -93,3 +93,7 @@
 
 ### 2019-11-18
 - ['史上最贴心前端脚手架开发辅导'](https://juejin.im/post/5dd10fb76fb9a01fe303a5aa)
+- ['将 React 渲染到嵌入式液晶屏'](https://juejin.im/post/5dbb729e51882524c101ffe1)
+
+### 2019-11-19
+- ['Making-a-custom-React-renderer'](https://github.com/nitin42/Making-a-custom-React-renderer)
