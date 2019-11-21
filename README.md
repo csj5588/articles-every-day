@@ -97,3 +97,4 @@
 
 ### 2019-11-19
 - ['Making-a-custom-React-renderer'](https://github.com/nitin42/Making-a-custom-React-renderer)
+- ['if 我是前端Leader，怎么走出小微前端团队的围墙?'](https://juejin.im/post/5dd55512f265da47a807cc06)
