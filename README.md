@@ -134,3 +134,15 @@
 ### 2019-11-28
 - ['10分钟了解JS堆、栈以及事件循环的概念'](https://juejin.im/post/5b1deac06fb9a01e643e2a95#heading-13)
 - ['动态导入（Dynamic imports）'](https://zh.javascript.info/modules-dynamic-imports)
+
+### 2019-11-29
+- ['The Obvious UI is Often the Best UI'](https://medium.com/google-design/the-obvious-ui-is-often-the-best-ui-7a25597d79fd)
+- ['动态导入（Dynamic imports）'](https://zh.javascript.info/modules-dynamic-imports)
+
+### 2019-11-30
+- ['10分钟了解JS堆、栈以及事件循环的概念'](https://juejin.im/post/5b1deac06fb9a01e643e2a95#heading-13)
+- ['轻松理解webpack热更新原理）'](https://juejin.im/post/5de0cfe46fb9a071665d3df0)
+
+### 2019-12-01
+- ['同时多个axios请求怎么实现无痛刷新token'](https://juejin.im/post/5dde55286fb9a071a639e85f)
+- ['如何识别文件的真假）'](http://www.ruanyifeng.com/blog/2019/11/hash-sum.html)
