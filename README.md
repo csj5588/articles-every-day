@@ -149,4 +149,9 @@
 
 ### 2019-12-02
 - ['前端API层架构，也许你做得还不够'](https://juejin.im/post/5de7169451882512454b18d8)
-- ['AST抽象语法树）'](https://segmentfault.com/a/1190000016231512?utm_source=tag-newest)
+- ['AST抽象语法树'](https://segmentfault.com/a/1190000016231512?utm_source=tag-newest)
+
+### 2019-12-03
+- ['9个项目助你在2020年成为前端大'](https://juejin.im/post/5dc0c744e51d456e7e41f5ac)
+- ['前端自动化构建从入门到深入1'](https://juejin.im/post/5de39e8af265da05d10c3299)
+
