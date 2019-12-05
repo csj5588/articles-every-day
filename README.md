@@ -146,3 +146,7 @@
 ### 2019-12-01
 - ['同时多个axios请求怎么实现无痛刷新token'](https://juejin.im/post/5dde55286fb9a071a639e85f)
 - ['如何识别文件的真假）'](http://www.ruanyifeng.com/blog/2019/11/hash-sum.html)
+
+### 2019-12-02
+- ['前端API层架构，也许你做得还不够'](https://juejin.im/post/5de7169451882512454b18d8)
+- ['AST抽象语法树）'](https://segmentfault.com/a/1190000016231512?utm_source=tag-newest)
