@@ -169,4 +169,8 @@
 
 ### 2019-12-07
 - ['一文看懂浏览器事件循环'](https://juejin.im/post/5df071a9518825123e7aef17)
+- ['如何真正写好代码注释 — 现代 JavaScript 教程'](https://juejin.im/post/5def9623f265da33c90b3b0e)
+
+### 2019-12-07
+- ['前端代码质量优化交流（2）'](https://juejin.im/post/5df1a3d1f265da33ec7dafa9)
 
