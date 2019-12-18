@@ -173,4 +173,9 @@
 
 ### 2019-12-07
 - ['前端代码质量优化交流（2）'](https://juejin.im/post/5df1a3d1f265da33ec7dafa9)
+- ['Design better data tables'](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
+
+### 2019-12-08
+- ['Baby's First Garbage Collector'](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+- ['Design better data tables'](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
 
