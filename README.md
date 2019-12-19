@@ -177,5 +177,8 @@
 
 ### 2019-12-08
 - ['Baby's First Garbage Collector'](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-- ['Design better data tables'](https://uxdesign.cc/design-better-data-tables-4ecc99d23356)
+- ['可怕的“浏览器指纹”，让你在互联网上，无处可藏'](https://juejin.im/post/5dfacebbe51d4557f5450357)
+
+### 2019-12-09
+- ['头条面试官：你知道如何实现高性能版本的深拷贝嘛？'](https://juejin.im/post/5df7175fe51d45582512962c)
 
