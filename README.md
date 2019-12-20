@@ -183,3 +183,6 @@
 - ['头条面试官：你知道如何实现高性能版本的深拷贝嘛？'](https://juejin.im/post/5df7175fe51d45582512962c)
 - ['纯CSS实现简单骨骼动画'](https://juejin.im/post/5deb49a251882512302daa92)
 
+### 2019-12-10
+- ['高质量前端快照方案：来自页面的「自拍」'](https://juejin.im/post/5df2e8ab6fb9a0163770816d)
+
