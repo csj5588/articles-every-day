@@ -219,3 +219,11 @@
 - ['浪到飞起的前端女程序员的2019 | 掘金年度征文'](https://juejin.im/post/5dff805ef265da33c4281850)
 - ['面试官连环追问：数组拍平（扁平化） flat 方法实现'](https://juejin.im/post/5dff18a4e51d455804256d31)
 
+### 2019-12-19
+- ['ES6 系列之箭头函数'](https://juejin.im/post/5b14d0b4f265da6e60393680)
+- ['JavaScript 深入之类数组对象与 arguments'](https://juejin.im/post/590fd5de44d904007bed2e0c)
+
+### 2019-12-20
+- ['全面了解ES6中的Class'](https://juejin.im/post/5cecd087518825117976653f)
+- ['自定义事件机制'](https://www.jb51.net/article/130564.htm)
+
