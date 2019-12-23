@@ -185,4 +185,37 @@
 
 ### 2019-12-10
 - ['高质量前端快照方案：来自页面的「自拍」'](https://juejin.im/post/5df2e8ab6fb9a0163770816d)
+- ['CSS flex属性深入理解'](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-deep/)
+
+### 2019-12-11
+- ['CSS repeat()函数详细介绍'](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/)
+- ['重构 - 保持函数的单一职责'](https://juejin.im/post/5af7ee6df265da0b722b36aa)
+
+### 2019-12-12
+- ['煦涵说CSS：scroll-behavior实现页面平滑滚动'](https://segmentfault.com/p/1210000011354501)
+- ['这儿有一个使你网页性能提升10倍的工具'](https://juejin.im/post/5b156980e51d4506b942a54d)
+
+### 2019-12-13
+- ['谁说前端不需要懂-Nginx反向代理与负载均衡'](https://juejin.im/post/5b01336af265da0b8a67e5c9)
+- ['JavaScript 运行机制详解：再谈Event Loop'](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+
+### 2019-12-14
+- ['GitHub Actions 教程：定时发送天气邮件'](http://www.ruanyifeng.com/blog/2019/12/github_actions.html)
+- ['一个老程序员的30年生涯回顾（译文）'](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html)
+
+### 2019-12-15
+- ['CSS世界中那些说起来很冷的知识'](https://juejin.im/post/5b406f40e51d45194832b759)
+- ['神奇的选择器 :focus-within'](https://juejin.im/post/5b62839d6fb9a04fd260af17)
+
+### 2019-12-16
+- ['回到基础：什么是DOM及DOM操作？'](https://juejin.im/post/5df96e986fb9a0164423dc39)
+- ['这可能是最通俗的 React Fiber(时间分片) 打开方式'](https://juejin.im/post/5dadc6045188255a270a0f85)
+
+### 2019-12-17
+- ['回到基础：什么是DOM及DOM操作？'](https://juejin.im/post/5df96e986fb9a0164423dc39)
+- ['为什么要做用户行为分析？如何利用数据分析用户行为？'](https://bbs.pinggu.org/thread-4985774-1-1.html)
+
+### 2019-12-18
+- ['浪到飞起的前端女程序员的2019 | 掘金年度征文'](https://juejin.im/post/5dff805ef265da33c4281850)
+- ['面试官连环追问：数组拍平（扁平化） flat 方法实现'](https://juejin.im/post/5dff18a4e51d455804256d31)
 
