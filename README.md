@@ -227,3 +227,6 @@
 - ['全面了解ES6中的Class'](https://juejin.im/post/5cecd087518825117976653f)
 - ['自定义事件机制'](https://www.jb51.net/article/130564.htm)
 
+### 2019-12-21
+- ['JavaScript设计模式之观察者模式'](https://www.jianshu.com/p/fd1b0c4c0659)
+
