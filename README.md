@@ -229,4 +229,8 @@
 
 ### 2019-12-21
 - ['JavaScript设计模式之观察者模式'](https://www.jianshu.com/p/fd1b0c4c0659)
+- ['如何答一道惊艳面试官的数组去重问题？'](https://juejin.im/post/5e02110ee51d4557f046147b)
+
+### 2019-12-22
+- ['科技爱好者周刊：第 87 期'](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)
 
