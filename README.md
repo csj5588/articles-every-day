@@ -233,4 +233,8 @@
 
 ### 2019-12-22
 - ['科技爱好者周刊：第 87 期'](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)
+- ['巧用 CSS 实现酷炫的充电动画'](https://juejin.im/post/5e00240ee51d45583c1cc9a7)
+
+### 2019-12-23
+- ['《CDN 之我见》系列一：原理篇（由来、调度）'](https://yq.aliyun.com/articles/577708?spm=a2c41.11181499.0.0)
 
