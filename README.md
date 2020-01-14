@@ -263,3 +263,7 @@
 - ['关于微前端你必须了解的三种实现方式'](https://juejin.im/post/5e15a8e4e51d4541216298c3)
 - ['JavaScript eval() 函数'](https://www.w3school.com.cn/js/jsref_eval.asp)
 
+### 2019-12-31
+- ['Introduction to Creating Web Components'](https://levelup.gitconnected.com/introduction-to-creating-web-components-868b53b89799)
+- ['React Filter: Filtering Arrays in React'](https://upmostly.com/tutorials/react-filter-filtering-arrays-in-react-with-examples)
+
