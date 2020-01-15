@@ -267,3 +267,7 @@
 - ['Introduction to Creating Web Components'](https://levelup.gitconnected.com/introduction-to-creating-web-components-868b53b89799)
 - ['React Filter: Filtering Arrays in React'](https://upmostly.com/tutorials/react-filter-filtering-arrays-in-react-with-examples)
 
+### 2020-01-01
+- ['染陌的 2019 年度总结——我在阿里云做前端'](https://juejin.im/post/5e1d43e95188254c0a040f76)
+- ['Learning Node.js and React while building a product'](https://javascriptkicks.com/articles/147418/learning-node-js-and-react-while-building-a-product)
+
