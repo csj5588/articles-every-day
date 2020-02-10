@@ -275,3 +275,7 @@
 - ['cz-cli'](https://github.com/commitizen/cz-cli)
 - ['Understanding Semantic Commit Messages Using Git and Angular'](https://nitayneeman.com/posts/understanding-semantic-commit-messages-using-git-and-angular/)
 
+### 2020-02-04
+- ['Why npm lockfiles can be a security blindspot for injecting malicious modules'](https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/)
+- ['五种可视化方案分析 webpack 打包性能瓶颈'](https://juejin.im/post/5e39570bf265da573c0c6679)
+
