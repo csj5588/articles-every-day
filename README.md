@@ -295,3 +295,7 @@
 - ['Map与WeakMap'](https://blog.csdn.net/Ed7zgeE9X/article/details/89879406)
 - ['通过JavaScript垃圾回收机制来理解WeakSet/WeakMap中对象的弱引用'](https://www.jianshu.com/p/c99dd69a8f2c)
 
+### 2020-04-02
+- ['前端进阶算法2：从Chrome V8源码看JavaScript数组'](https://juejin.im/post/5e84ae366fb9a03c840d564f)
+- ['前端进阶算法1：如何分析、统计算法的执行效率和资源消耗？'](https://juejin.im/post/5e82045de51d4547134bc53d)
+
