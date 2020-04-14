@@ -299,3 +299,6 @@
 - ['前端进阶算法2：从Chrome V8源码看JavaScript数组'](https://juejin.im/post/5e84ae366fb9a03c840d564f)
 - ['前端进阶算法1：如何分析、统计算法的执行效率和资源消耗？'](https://juejin.im/post/5e82045de51d4547134bc53d)
 
+### 2020-04-014
+- ['如何推动与影响中型前端团队的成长 & 暨最近一年多新团队的管理工作复盘'](https://juejin.im/post/5e1ef0ba6fb9a02ffd6eb8b3)
+
