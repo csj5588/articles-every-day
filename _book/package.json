@@ -1,0 +1,24 @@
+{
+  "name": "articles-every-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "start": "honkit serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csj5588/articles-every-day.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csj5588/articles-every-day/issues"
+  },
+  "homepage": "https://github.com/csj5588/articles-every-day#readme",
+  "devDependencies": {
+    "honkit": "^3.6.5"
+  }
+}
