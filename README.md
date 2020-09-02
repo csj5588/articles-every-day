@@ -299,6 +299,18 @@
 - ['浏览器同域名请求的最大并发数限制'](https://www.cnblogs.com/sunsky303/p/8862128.html)
 - ['chrome中性能分析工具分析页面中Idle（空闲时间）占用太长时间，会不会影响页面性能，如果会是什么原因造成的？'](https://segmentfault.com/q/1010000006692888)
 
+### 2020-01-09
+- ['chrome调试-性能分析performance篇'](https://www.jianshu.com/p/b6f87bac5381)
+- ['Timeline Event Reference'](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/performance-reference)
+
+### 2020-01-10
+- ['Performance Analysis Reference'](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference)
+- ['rendering-tools'](https://developers.google.com/web/tools/chrome-devtools/rendering-tools)
+
+### 2020-01-11
+- ['当裸辞遇到了面试难，你需要了解一下这些面试题'](https://juejin.im/post/6866920515420815374)
+- ['JavaScript设计模式--享元模式'](https://zhuanlan.zhihu.com/p/129841917)
+
 ### 2020-02-03
 - ['cz-cli'](https://github.com/commitizen/cz-cli)
 - ['Understanding Semantic Commit Messages Using Git and Angular'](https://nitayneeman.com/posts/understanding-semantic-commit-messages-using-git-and-angular/)
