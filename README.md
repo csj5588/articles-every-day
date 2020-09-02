@@ -299,6 +299,31 @@
 - ['前端进阶算法2：从Chrome V8源码看JavaScript数组'](https://juejin.im/post/5e84ae366fb9a03c840d564f)
 - ['前端进阶算法1：如何分析、统计算法的执行效率和资源消耗？'](https://juejin.im/post/5e82045de51d4547134bc53d)
 
-### 2020-04-014
+### 2020-04-14
 - ['如何推动与影响中型前端团队的成长 & 暨最近一年多新团队的管理工作复盘'](https://juejin.im/post/5e1ef0ba6fb9a02ffd6eb8b3)
+- ['七夕小游戏中的程序设计'](https://juejin.im/post/6867457394813698056)
+
+### 2020-04-15
+- ['深入理解设计模式（12）：职责链模式'](https://www.cnblogs.com/xuwendong/p/9814425.html)
+- ['Rust for JavaScript Developers - Functions and Control Flow'](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
+
+### 2020-08-29
+- ['九宫格抽奖中的程序设计'](https://juejin.im/post/6864362069991358472)
+- ['我写了一个TypeScript虚拟机。'](https://segmentfault.com/a/1190000023846979)
+
+### 2020-08-30
+- ['Markdown的写作方式，预览分栏'](https://www.jianshu.com/p/4d78584ca600)
+- ['markdown生成目录'](https://www.jianshu.com/p/edbba61cbc24)
+
+### 2020-08-31
+- ['JavaScript中常见的十五种设计模式'](https://www.cnblogs.com/imwtr/p/9451129.html#o4)
+- ['javascript设计模式——职责链模式'](https://www.cnblogs.com/xiaohuochai/p/8040195.html)
+
+### 2020-9-1
+- ['FCP优化'](https://www.jianshu.com/p/f2d012fda9d8)
+- ['解决 primordials is not defined 问题'](https://blog.csdn.net/zxxzxx23/article/details/103000393)
+
+### 2020-9-2
+- ['浏览器加载 CommonJS 模块的原理与实现'](http://www.ruanyifeng.com/blog/2015/05/commonjs-in-browser.html)
+- ['rollup'](https://github.com/rollup/rollup)
 
