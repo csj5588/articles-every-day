@@ -271,6 +271,9 @@
 - ['染陌的 2019 年度总结——我在阿里云做前端'](https://juejin.im/post/5e1d43e95188254c0a040f76)
 - ['Learning Node.js and React while building a product'](https://javascriptkicks.com/articles/147418/learning-node-js-and-react-while-building-a-product)
 
+### 2020-01-01
+- ['CommonJS'](https://zh.wikipedia.org/wiki/CommonJS)
+
 ### 2020-02-03
 - ['cz-cli'](https://github.com/commitizen/cz-cli)
 - ['Understanding Semantic Commit Messages Using Git and Angular'](https://nitayneeman.com/posts/understanding-semantic-commit-messages-using-git-and-angular/)
