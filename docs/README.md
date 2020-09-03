@@ -1,7 +1,5 @@
 # Daily reading
 
-## Introduce
-
 I keep the classic articles I read every day here, and continue to maintain them in the future.
 
 Not necessarily every day maintenance, if not so busy, I will always remember and continue.
@@ -12,16 +10,17 @@ I'm a juejin writer. also You can see this  [夜还不够黑](https://juejin.im/
 
 ٩(●ᴗ●)۶
 
-gh-pages: https://csj5588.github.io/daily-reading/#/README
-
 ----
 
-## Fork Project
 
-如果你访问了上面的地址，那么你会看到一个比较平面话的文档系统。
+# 每日阅读
 
-这个项目是可以快速搭建文档系统，你可以fork起来，并且修改成自己的文档系统，配合gh-pages
+我把每日看过的经典文章放维护在这里，并且以后持续维护下去。
 
-## How to work
+不一定每天都会维护，如果没有那么忙的话，我会一直记得并且继续。
 
-安装
+我坚持阅读文章，坚持写文章，并且希望它们会对你有所帮助。
+
+我在掘金，你可以看看这些。[夜还不够黑](https://juejin.im/user/342703357565614)
+
+٩(●ᴗ●)۶
