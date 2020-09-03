@@ -18,10 +18,30 @@ gh-pages: https://csj5588.github.io/articles-every-day/#/README
 
 ## Fork Project
 
-如果你访问了上面的地址，那么你会看到一个比较平面话的文档系统。
+If you visit the address above, you will see a more flat document system.
 
-这个项目是可以快速搭建文档系统，你可以fork起来，并且修改成自己的文档系统，配合gh-pages
+This project can quickly build a document system, 
+
+you can fork it up, and modify it into your own document system, with gh-pages
 
 ## How to work
 
 安装
+
+```shell
+npm i docsify-cli -g
+```
+
+init
+
+```shell
+docsify init ./docs
+```
+
+preview
+
+```shell
+docsify serve docs
+```
+
+[More Api](https://docsify.js.org/#/more-pages)
