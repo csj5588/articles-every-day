@@ -12,7 +12,7 @@ I'm a juejin writer. also You can see this  [夜还不够黑](https://juejin.im/
 
 ٩(●ᴗ●)۶
 
-gh-pages: https://csj5588.github.io/daily-reading/#/README
+gh-pages: https://csj5588.github.io/articles-every-day/#/README
 
 ----
 
